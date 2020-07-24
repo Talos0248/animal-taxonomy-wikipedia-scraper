@@ -1,5 +1,5 @@
 # animal-taxonomy-wikipedia-scraper
-A script that scrapes data about selected animals on wikipedia and lists their taxonomy info in a csv file. Conservation status is also provided (if available).
+A script that scrapes data about selected animals on wikipedia and lists their taxonomy and conservation info in a csv file. Conservation status is also provided (if available).
 
 Included within is the script itself and the csv file generated using the given animal names in the script. As you can see from the csv, the script is far from perfect, would be grateful for any suggestions on how to improve the script.
 
