@@ -98,7 +98,7 @@ for i in namelist:
     print(i, "-->", animal_name)
     
     #Sleeps after each search to not overwhelm the wikipedia server :)
-    time.sleep(0.01)
+    time.sleep(0.5)
         
     #Writes everything into a pretty csv file    
     with open('taxonomy_list.csv', 'w', newline='') as csvfile:
