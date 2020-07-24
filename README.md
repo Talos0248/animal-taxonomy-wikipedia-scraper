@@ -6,3 +6,5 @@ Included within is the script itself and the csv file generated using the given 
 Works around 80% of the time, will not work on certain animals due to how wikipedia is formatted. There may be errors for the genus of each species due to how the data is presented on wikipedia.
 
 Any constructive criticism is welcomed!
+
+Edit (24/06/2020) Script has been updated, should now be more accurate!
